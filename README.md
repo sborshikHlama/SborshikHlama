@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with Angular and React
-- 🌱 I’m currently learning Web development and Data Analytics
+- 🌱 I’m currently learning Web development and Data Analysis
 - ⚡ My skills:
 
 
