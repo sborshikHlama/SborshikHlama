@@ -1,4 +1,5 @@
-![giphy](https://github.com/sborshikHlama/SborshikHlama/assets/100703861/24ff0ae3-ffc4-407c-a29d-b32f81734979)
+
+![f5d475dcbc657830c77ab317d34611aa](https://github.com/sborshikHlama/SborshikHlama/assets/100703861/e244065c-f41f-4a04-aa81-b92e299a25d9)
 
 ### Hello there 👋
 
