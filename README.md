@@ -1,5 +1,5 @@
 
-![f5d475dcbc657830c77ab317d34611aa](https://github.com/sborshikHlama/SborshikHlama/assets/100703861/e244065c-f41f-4a04-aa81-b92e299a25d9)
+![3ea757b8f5f4a05cce0c80c167817be0](https://github.com/sborshikHlama/SborshikHlama/assets/100703861/0799cc90-059c-4171-9a4a-79b7bf8f83e1)
 
 ### Hello there 👋
 
