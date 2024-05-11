@@ -4,7 +4,7 @@
 ### Hello there 👋
 
 
-- 🔭 Currently working on 42 Shcool projects
+- 🔭 Currently working on 42 School projects
 - 🌱 Economics and Computer Science student
 - ⚡ Skills:
 
