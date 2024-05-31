@@ -8,7 +8,7 @@
 - 🌱 Economics and Computer Science student
 - ⚡ Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,c,linux,angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,linux,python,powerbi)](https://skillicons.dev)
 
 
 
