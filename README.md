@@ -4,7 +4,7 @@
 ## About Me
 
 - 🌟 Experienced in:
-  - Python: HTTP parsing, web scraping
+  - Python: HTML parsing, web scraping
   - C: Multithread programming, shell recreation
   - JavaScript, React, Node.js
 - 💬 Currently learning: Statistical process control, linear programming
